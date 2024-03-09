@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/GV/OCJ4ELY4HCHSSHU5GFOWIP.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/97/RZEUFM2GKUJT9IC0VA7XYI.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MK/PCFHNYNTEBQY47Y55QGBLS.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QS/UGQA2YNLGZ3B5XUG7YNS4U.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BB/5UZJQ20Z1UGD2I8MW2Z3LD.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BW/5KOD3FI4A0QAEDCPFDRDRU.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/QR/LX0K91F5344ZSUBJDRKSKJ.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/HR/NMII20G8SUEX7F4RACU9PH.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TA/0XRLH3QBM6J0IYSCUD2HW1.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/NZ/SH9X1K2AD6OM1Y1N1KR8XN.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OL/ZH86PDF2D8Y8B1FW1DH7B8.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/IZ/JY0NOJW52ECLCWMUHQOQFM.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5Q/4JDGUTXPM42YMM51VU2BM5.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PI/B6SXYPWB0UPZ03ZZM6COST.uasset",
+				"C:/Users/Corsair Carbide/Desktop/UR_Project/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/BU/K9HYM6XCCLJ954BP69VVGV.uasset"
+			]
+		}
+	]
+}
